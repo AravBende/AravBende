@@ -1,4 +1,4 @@
-<img align="top" width="1080px" src="file:///C:/Users/Arav%20Bende/Downloads/1%20yGNh7S7LeLjMvHNmEj1vWw.jpeg" />
+<img align="top" width="1080px" src="https://img.tineye.com/result/7d7b298e9368df076c7bad59b187af7eebd88f7af922941d05ba5a10d26151e2-52?size=160" />
 
 ### Hi, I'm Arav Bende 👋
 
