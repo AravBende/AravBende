@@ -1,4 +1,4 @@
-<!-- <img align="top" height="600px" src="https://imgs.search.brave.com/uVvObM0nBghThLwAYpcv4D-GcA8eSWI2y5LeLVb51LU/rs:fit:1200:622:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3JlYXRpdmVt/YXJrZXQuY29tLzAu/MS4wL3BzLzExNjY1/NDU1LzE4MjAvNjIy/L20xL2Zwbncvd20x/L3F5bmJvOWhnZmN3/Zm9zbmlsNmFwcmpq/cml4eXdvZml5ZDVy/d3BxZDE0b2NjbG93/eGFsNHlxeWNsNXR5/czVqbmYtLmpwZz8x/NjQyMTgyODYyJnM9/NGQxOTZlYjNlMjMy/NDI4NDJmZjg3ZTkw/MzA1NjE1Zjc" /> -->
+<img align="top" height="600px" src="https://imgs.search.brave.com/Kj1ju7WwHGSNLcdI6bfEk7cg9lj0nCiElhw3znEghzY/rs:fit:1200:800:1/g:ce/aHR0cHM6Ly8yMDE4/Lm55Yy53b3JkY2Ft/cC5vcmcvZmlsZXMv/MjAxOC8wNi9OWUMt/bmlnaHQtYmFubmVy/LmpwZw" /> -->
 
 ### Hi, I'm Arav Bende 👋
 
