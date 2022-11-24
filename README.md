@@ -6,9 +6,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AravBende&show_icons=true&theme=dark)](https://github.com/AravBende/github-readme-stats) [![Arav's GitHub stats](https://github-readme-stats.vercel.app/api?username=AravBende&show_icons=true&theme=dark)](https://github.com/AravBende/github-readme-stats)
 
 ### current project's:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AravBende&repo=Minichess&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AravBende&repo=tictactoe&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AravBende&repo=Python-challanges&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AravBende&repo=Minichess&show_icons=true&theme=dark)](https://github.com/AravBende/Minichess)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AravBende&repo=tictactoe&show_icons=true&theme=dark)](https://github.com/AravBende/tictactoe)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AravBende&repo=Python-challanges&show_icons=true&theme=dark)](https://github.com/AravBende/Python-challanges)
 
 
 <!--
