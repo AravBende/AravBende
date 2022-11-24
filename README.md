@@ -1,5 +1,6 @@
 ### Hi, I'm Arav Bende 👋
 
+### My stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AravBende&show_icons=true&theme=dark)](https://github.com/AravBende/github-readme-stats) [![Arav's GitHub stats](https://github-readme-stats.vercel.app/api?username=AravBende&show_icons=true&theme=dark)](https://github.com/AravBende/github-readme-stats)
 
 <!--
