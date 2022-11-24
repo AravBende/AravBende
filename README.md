@@ -3,7 +3,7 @@
 ### Hi, I'm Arav Bende 👋
 
 ### My stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AravBende&show_icons=true&theme=dark)](https://github.com/AravBende/github-readme-stats) [![Arav's GitHub stats](https://github-readme-stats.vercel.app/api?username=AravBende&show_icons=true&theme=dark)](https://github.com/AravBende/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AravBende&show_icons=true&theme=radical)](https://github.com/AravBende/github-readme-stats) [![Arav's GitHub stats](https://github-readme-stats.vercel.app/api?username=AravBende&show_icons=true&theme=radical)](https://github.com/AravBende/github-readme-stats)
 
 <!--
 **AravBende/AravBende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
