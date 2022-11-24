@@ -5,6 +5,11 @@
 ### My stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AravBende&show_icons=true&theme=dark)](https://github.com/AravBende/github-readme-stats) [![Arav's GitHub stats](https://github-readme-stats.vercel.app/api?username=AravBende&show_icons=true&theme=dark)](https://github.com/AravBende/github-readme-stats)
 
+### current project's:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AravBende&repo=Minichess)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AravBende&repo=tictactoe)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **AravBende/AravBende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
