@@ -1,3 +1,5 @@
+<img align="top" width="1080px" src="file:///C:/Users/Arav%20Bende/Downloads/1%20yGNh7S7LeLjMvHNmEj1vWw.jpeg" />
+
 ### Hi, I'm Arav Bende 👋
 
 ### My stats:
